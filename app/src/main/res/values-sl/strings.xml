@@ -42,6 +42,7 @@
     <string name="settings_font_title">Pisava enotne širine</string>
     <string name="settings_font_size">Velikost pisave</string>
     <string name="settings_wifi_only">Usklajuj le na Wi-Fi</string>
+    <string name="settings_lock_summary">Poverila naprave</string>
     <string name="settings_background_sync"> Usklajevanje v ozadju</string>
     <string name="error_sync">Usklajevanje je spodletelo: %1$s</string>
     <string name="error_synchronization">Usklajevanje je spodletelo</string>
